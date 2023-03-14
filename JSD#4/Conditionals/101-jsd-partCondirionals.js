@@ -79,8 +79,8 @@
 //       break;
 //     ...
 //     default:
-      // code to be executed if expression doesn't match any of the cases
-  }
+// code to be executed if expression doesn't match any of the cases
+// }
 
 //In this syntax, the expression is the variable or expression being tested, while each case block represents a possible value that the expression might match. If the expression matches a case value, the code inside that block is executed, and then execution of the switch statement stops (unless a break statement is omitted). If the expression does not match any of the case values, the code inside the default block is executed.
 
