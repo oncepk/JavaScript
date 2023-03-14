@@ -70,15 +70,15 @@
 ////////////////////////////////////////////
 //In programming, the switch statement is a control flow structure that allows you to test a variable against a series of possible values and execute different blocks of code based on which value the variable matches. The syntax of the switch statement is as follows:
 
-switch (expression) {
-    case value1:
-      // code to be executed if expression matches value1
-      break;
-    case value2:
-      // code to be executed if expression matches value2
-      break;
-    ...
-    default:
+// switch (expression) {
+//     case value1:
+//       // code to be executed if expression matches value1
+//       break;
+//     case value2:
+//       // code to be executed if expression matches value2
+//       break;
+//     ...
+//     default:
       // code to be executed if expression doesn't match any of the cases
   }
 
